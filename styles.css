@@ -6,3 +6,29 @@ body{
     width: 228px;
     margin: 0 auto;
 }
+
+h1{
+    font-size: 65px;
+}
+
+img{
+    border-color: brown;
+    border-style: dashed;
+    border-width: 5px;
+}
+
+.Alfahm{
+    width: 420px;
+    margin: 0 auto;
+}
+
+.Apple{
+    width: 420px;
+    margin: 0 auto;
+}
+
+
+.Avacado{
+    width: 500px;
+    margin: 0 auto;
+}
